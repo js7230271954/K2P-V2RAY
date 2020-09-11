@@ -8,17 +8,23 @@ Build OpenWrt using GitHub Actions
 
 [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
-自用插件列表：
+自用插件列表
 
 luci-app-arpbind
-luci-app-ddns
-luci-app-firewall
-luci-app-flowoffload
-luci-app-ssr-plus (SSR+v2ray+plugin)
-luci-app-upnp
-luci-theme-netgear
-集成无线驱动
 
+luci-app-ddns
+
+luci-app-firewall
+
+luci-app-flowoffload
+
+luci-app-ssr-plus (SSR+v2ray+plugin)
+
+luci-app-upnp
+
+luci-theme-netgear
+
+集成无线驱动
 5.4内核
 
 ## License
